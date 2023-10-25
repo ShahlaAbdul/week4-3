@@ -3,7 +3,7 @@
 
 // let num = prompt("zehmet olmasa 1den 100e eder  eded daxil edin:");
 // let power = 1;
-// for (let i = 0; i < power; i++) {
+// for (let i = 0; i <power; i++) {
 //     if (num % 2 == 0) {
 //         power *= num
         
@@ -19,8 +19,8 @@
 // let num = parseInt(promt("ededi daxil edin"));
 // let num2 = parseInt(promt("ikinci edei daxil edin"));
 // let power = 1;
-// for (i = 0; i < num2; i++){
-//     power = num ** num;
+// for (i = 0; i < num; i++){
+//     power = num ** num2;
     
 
 // }
